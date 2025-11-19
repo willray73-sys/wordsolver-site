@@ -1,9 +1,9 @@
 ---
-title: Ultimate Wordle Companion — Privacy Policy
+title: Wordler Companion — Privacy Policy
 ---
 # Privacy Policy
 **Effective date:** {{ site.time | date: "%Y-%m-%d" }}  
-**App:** Ultimate Wordle Companion (com.pixelquill.wordlecomp)
+**App:** Wordler Companion (com.pixelquill.wordlecomp)
 
 ## Summary
 - We **do not collect** or sell personal data.
