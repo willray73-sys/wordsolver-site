@@ -1,12 +1,12 @@
 ---
-title: Ultimate Wordle Companion — Support
+title: Wordler Companion — Support
 ---
-# Ultimate Wordle Companion — Support
+# Wordler Companion — Support
 
 **App ID:** com.pixelquill.wordlecomp  
 **Platforms:** iOS & Android
 
-Welcome! This is the official support page for **Ultimate Wordle Companion**.
+Welcome! This is the official support page for **Wordler Companion**.
 
 ## Quick Links
 - **Privacy Policy:** [./privacy](https://willray73-sys.github.io/ultimate-wordle-companion-site/privacy)
