@@ -1,9 +1,9 @@
 ---
-title: Wordler Companion — Privacy Policy
+title: WordSolver for 5-Letter Puzzles — Privacy Policy
 ---
 # Privacy Policy
 **Effective date:** {{ site.time | date: "%Y-%m-%d" }}  
-**App:** Wordler Companion (com.pixelquill.wordlecomp)
+**App:** WordSolver (com.pixelquill.wordlecomp)
 
 ## Summary
 - We **do not collect** or sell personal data.
