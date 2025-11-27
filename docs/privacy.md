@@ -15,7 +15,7 @@ title: WordSolve for 5-Letter Puzzles — Privacy Policy
 ## Technical & Diagnostic Data
 - **Apple and Google** may provide anonymized crash logs through TestFlight or the Play Store. These reports, when available, help improve app stability and contain no personally identifiable information.
 
-- **Network requests** WordSolve makes network requests to fetch word lists and related metadata. These requests are not tied to user identity, and the app does not collect or store personal data in relation to them.
+- **WordSolve** makes network requests to fetch word lists and related metadata. These requests are not tied to user identity, and the app does not collect or store personal data in relation to them.
 
 ## Cookies & Tracking
 - WordSolve does not use cookies or any form of third-party tracking.
