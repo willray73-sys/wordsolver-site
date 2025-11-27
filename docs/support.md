@@ -1,9 +1,8 @@
 ---
 title: WordSolve for 5-Letter Puzzles — Support
 ---
-# WordSolve — Support
 
-**App ID:** com.pixelquill.wordlecomp  
+**App:** WordSolve for 5-Letter Puzzles
 **Platforms:** iOS & Android
 
 Welcome! This is the official support page for **WordSolve for 5-Letter Puzzles**.
